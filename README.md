@@ -73,20 +73,12 @@ https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=YourTextHere
   └── App.css
 ```
 
----
 
-## 📸 Screenshots
-
-*(Insert screenshots of the app here)*
 
 ---
 
 ## 👤 Author
 
-* [Your Name](https://github.com/your-username)
+* [Chandan](https://github.com/ConnectedDEX)
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
